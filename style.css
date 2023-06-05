@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+body {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  background-color: #e94a4a;
+  padding: 10px;
+}
+
+.grid-container {
+  display: grid;
+  width: 375px;
+  height: 2500px;
+  grid-template-rows: auto auto auto auto;
+  justify-content: center;
+  align-content: center;
+  grid-gap: 10px;
+  background-color: #e5e5e5;
+  padding: 20px;
+  margin: 10px;
+  font-size: 30px;
+}
+
+.flex1 {
+  display: flex;
+  width: 327px;
+  height: 552px;
+  margin: 16px;
+  left: 24px;
+  top: 120px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 12px;
+  background-color: #fff;
+  flex-direction: column;
+}
+
+.snapshoot {
+  display: flex;
+  width: 295px;
+  height: 220px;
+  justify-content: center;
+  padding: 50px 36px 15px 24px;
+}
+
+#Tonic {
+  display: flex;
+  width: 295px;
+  height: 36;
+  font-family: "Poppins", sans-serif;
+  background-color: #172b4d;
+}
+
+.flex2 {
+  display: flex;
+  width: 327px;
+  height: 552px;
+  margin: 16px;
+  top: 114px;
+  left: 24px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 12px;
+  background-color: #fff;
+  flex-direction: column;
+}
+
+.flex3 {
+  display: flex;
+  width: 327px;
+  height: 552px;
+  margin: 16px;
+  top: 114px;
+  left: 24px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 12px;
+  background-color: #fff;
+  flex-direction: column;
+}
+
+.flex4 {
+  display: flex;
+  width: 327px;
+  height: 552px;
+  margin: 16px;
+  top: 114px;
+  left: 24px;
+  border-radius: 16px;
+  padding: 16px;
+  gap: 12px;
+  background-color: #fff;
+  flex-direction: column;
+}
