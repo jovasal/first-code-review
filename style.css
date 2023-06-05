@@ -8,10 +8,6 @@ body {
   padding: 10px;
 }
 
-
-
-
-
 .grid-container {
   display: grid;
   width: 375px;
@@ -28,7 +24,7 @@ body {
   align-content: center;
 }
 
-.flex1 
+.flex1 { 
   display: flex;
   width: 327px;
   height: 552px;
@@ -51,9 +47,10 @@ body {
 }
 
 
+
 #Tonic {
   display: flex;
-  width: 295px; hjik
+  width: 295px;
   height: 36;
   font-family: "Poppins", sans-serif;
   background-color: #172b4d;
